@@ -1,1 +1,1 @@
-![alt text](https://github.com/ahmaderfani12/Range-Shader/Preview.gif?raw=true)
+![alt text](https://github.com/ahmaderfani12/Range-Shader/blob/main/Preview.gif?raw=true)
